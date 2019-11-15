@@ -42,6 +42,9 @@ In this final project, you will implement the missing parts in the schematic. To
 
 <img src="images/3D_tracking.gif" width="1200"  />
 
+<img src="https://user-images.githubusercontent.com/40875720/68921484-e45c0e00-07b3-11ea-8748-b78ae2d5aac1.PNG" width="600">
+
+
 #### 1. Match 3D Objects
 
 Implement the method "matchBoundingBoxes", which takes as input both the previous and the current data frames and provides as output the ids of the matched regions of interest (i.e. the boxID property). Matches must be the ones with the highest number of keypoint correspondences.
